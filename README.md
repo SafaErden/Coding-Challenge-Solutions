@@ -25,6 +25,8 @@
 
 -Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Picking-Numbers)
 
+-The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile) - [Solution - Ruby](https://repl.it/@SafaErden/The-Hurdle-Race)
+
 
 
 
