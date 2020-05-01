@@ -29,6 +29,8 @@
 
 -Angry Professor - [Problem](https://www.hackerrank.com/challenges/angry-professor/problem) - [Solution Ruby](https://repl.it/@SafaErden/Angry-Professor)
 
+Find Digits - [Problem](https://www.hackerrank.com/challenges/find-digits/problem) - [Solution Ruby](https://repl.it/@SafaErden/Find-Digits)
+
 
 
 
