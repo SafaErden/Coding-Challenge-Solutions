@@ -10,7 +10,12 @@
 ## Challanges and Solutions
 
 -FizzBuzz - [Problem](https://www.hackerrank.com/challenges/fizzbuzz/problem) - [Solution - Ruby](https://repl.it/@SafaErden/FizzBuzz)
+
 -Drawing Book - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Drawing-Book)
+
+-Repeated String - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Repeated-String)
+
+
 
 
 ## 👤 Profile Pages
