@@ -9,23 +9,25 @@
 
 ## Challanges and Solutions
 
--FizzBuzz - [Problem](https://www.hackerrank.com/challenges/fizzbuzz/problem) - [Solution - Ruby](https://repl.it/@SafaErden/FizzBuzz)
+-FizzBuzz - [Problem](https://www.hackerrank.com/challenges/fizzbuzz/problem) - [Solution Ruby](https://repl.it/@SafaErden/FizzBuzz)
 
--Drawing Book - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Drawing-Book)
+-Drawing Book - [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) - [Solution Ruby](https://repl.it/@SafaErden/Drawing-Book)
 
--Repeated String - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Repeated-String)
+-Repeated String - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) - [Solution Ruby](https://repl.it/@SafaErden/Repeated-String)
 
--Staircase - [Problem](https://www.hackerrank.com/challenges/staircase/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Staircase)
+-Staircase - [Problem](https://www.hackerrank.com/challenges/staircase/problem) - [Solution Ruby](https://repl.it/@SafaErden/Staircase)
 
--Palindrome Index - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Palindrome-Index)
+-Palindrome Index - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) - [Solution Ruby](https://repl.it/@SafaErden/Palindrome-Index)
 
--Anagram - [Problem](https://www.hackerrank.com/challenges/anagram/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Anagram)
+-Anagram - [Problem](https://www.hackerrank.com/challenges/anagram/problem) - [Solution Ruby](https://repl.it/@SafaErden/Anagram)
 
--Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Electronics-Shop)
+-Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution Ruby](https://repl.it/@SafaErden/Electronics-Shop)
 
--Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Picking-Numbers)
+-Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution Ruby](https://repl.it/@SafaErden/Picking-Numbers)
 
--The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile) - [Solution - Ruby](https://repl.it/@SafaErden/The-Hurdle-Race)
+-The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile) - [Solution Ruby](https://repl.it/@SafaErden/The-Hurdle-Race)
+
+-Angry Professor - [Problem](https://www.hackerrank.com/challenges/angry-professor/problem) - [Solution Ruby](https://repl.it/@SafaErden/Angry-Professor)
 
 
 
