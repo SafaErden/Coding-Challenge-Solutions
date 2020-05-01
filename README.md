@@ -35,6 +35,8 @@
 
 -Equalize the Array - [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) - [Solution Ruby](https://repl.it/@SafaErden/Equalize-the-Array)
 
+-Encryption - [Problem](https://www.hackerrank.com/challenges/encryption/problem) - [Solution Ruby](https://repl.it/@SafaErden/Encryption)
+
 
 ## 👤 Profile Pages
 
