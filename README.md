@@ -37,6 +37,20 @@
 
 -Encryption - [Problem](https://www.hackerrank.com/challenges/encryption/problem) - [Solution Ruby](https://repl.it/@SafaErden/Encryption)
 
+-Coprime - [Problem and Solution Ruby](https://repl.it/@SafaErden/Coprime)
+
+-Only Vowels - [Problem and Solution Ruby](https://repl.it/@SafaErden/Only-Vowels)
+
+-Adult in Group - [Problem and Solution Ruby](https://repl.it/@SafaErden/Adult-in-Group)
+
+-Max Inject - [Problem and Solution Ruby](https://repl.it/@SafaErden/Max-Inject)
+
+-Union - [Problem and Solution Ruby](https://repl.it/@SafaErden/Union)
+
+-Filter Lengths - [Problem and Solution Ruby](https://repl.it/@SafaErden/Filter-Lengths)
+
+-Multi Dimensional Sum - [Problem and Solution Ruby](https://repl.it/@SafaErden/Multi-Dimensional-Sum)
+
 
 ## 👤 Profile Pages
 
