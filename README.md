@@ -15,6 +15,12 @@
 
 -Repeated String - [Problem](https://www.hackerrank.com/challenges/repeated-string/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Repeated-String)
 
+-Staircase - [Problem](https://www.hackerrank.com/challenges/staircase/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Staircase)
+
+-Palindrome Index - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Palindrome-Index)
+
+-Anagram - [Problem](https://www.hackerrank.com/challenges/anagram/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Anagram)
+
 
 
 
