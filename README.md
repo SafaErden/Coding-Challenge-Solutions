@@ -23,6 +23,8 @@
 
 -Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Electronics-Shop)
 
+-Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution - Ruby](https://repl.it/@SafaErden/Picking-Numbers)
+
 
 
 
