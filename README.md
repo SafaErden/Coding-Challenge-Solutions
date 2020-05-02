@@ -55,6 +55,8 @@
 
 -The Time in Words - [Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) - [Solution Ruby](https://repl.it/@SafaErden/The-Time-in-Words)
 
+-Chocolate Feast - [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) - [Solution Ruby](https://repl.it/@SafaErden/Chocolate-Feast)
+
 
 ## 👤 Profile Pages
 
