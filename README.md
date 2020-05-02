@@ -51,6 +51,8 @@
 
 -Multi Dimensional Sum - [Problem and Solution Ruby](https://repl.it/@SafaErden/Multi-Dimensional-Sum)
 
+-Beautiful Triplets - [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) - [Solution Ruby](https://repl.it/@SafaErden/Beautiful-Triplets)
+
 
 ## 👤 Profile Pages
 
