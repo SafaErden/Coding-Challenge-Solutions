@@ -53,6 +53,8 @@
 
 -Beautiful Triplets - [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem) - [Solution Ruby](https://repl.it/@SafaErden/Beautiful-Triplets)
 
+-The Time in Words - [Problem](https://www.hackerrank.com/challenges/the-time-in-words/problem) - [Solution Ruby](https://repl.it/@SafaErden/The-Time-in-Words)
+
 
 ## 👤 Profile Pages
 
