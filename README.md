@@ -59,6 +59,8 @@
 
 -Lisa's Workbook - [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem?h_r=internal-search) - [Solution Ruby](https://repl.it/@SafaErden/Lisas-Workbook)
 
+-Fair Rations - [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) - [Solution Ruby](https://repl.it/@SafaErden/Fair-Rations)
+
 
 ## 👤 Profile Pages
 
