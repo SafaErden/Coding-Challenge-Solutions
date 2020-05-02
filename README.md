@@ -57,6 +57,8 @@
 
 -Chocolate Feast - [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) - [Solution Ruby](https://repl.it/@SafaErden/Chocolate-Feast)
 
+-Lisa's Workbook - [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem?h_r=internal-search) - [Solution Ruby](https://repl.it/@SafaErden/Lisas-Workbook)
+
 
 ## 👤 Profile Pages
 
