@@ -57,9 +57,11 @@
 
 -Chocolate Feast - [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) - [Solution Ruby](https://repl.it/@SafaErden/Chocolate-Feast)
 
--Lisa's Workbook - [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem?h_r=internal-search) - [Solution Ruby](https://repl.it/@SafaErden/Lisas-Workbook)
+-Lisa's Workbook - [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) - [Solution Ruby](https://repl.it/@SafaErden/Lisas-Workbook)
 
 -Fair Rations - [Problem](https://www.hackerrank.com/challenges/fair-rations/problem) - [Solution Ruby](https://repl.it/@SafaErden/Fair-Rations)
+
+-Cavity Map - [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) - [Solution Ruby](https://repl.it/@SafaErden/Cavity-Map)
 
 
 ## 👤 Profile Pages
