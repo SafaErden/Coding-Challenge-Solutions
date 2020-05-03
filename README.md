@@ -63,6 +63,8 @@
 
 -Cavity Map - [Problem](https://www.hackerrank.com/challenges/cavity-map/problem) - [Solution Ruby](https://repl.it/@SafaErden/Cavity-Map)
 
+-Manasa and Stones - [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem) - [Solution Ruby](https://repl.it/@SafaErden/Manasa-and-Stones)
+
 
 ## 👤 Profile Pages
 
