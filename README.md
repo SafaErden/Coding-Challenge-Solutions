@@ -69,6 +69,8 @@
 
 -3D Surface Area - [Problem](https://www.hackerrank.com/challenges/3d-surface-area/problem) - [Solution Ruby](https://repl.it/@SafaErden/3D-Surface-Area)
 
+-Birthday Cake Candles - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution JavaScript](https://repl.it/@SafaErden/Birthday-Cake-Candles)
+
 
 ## 👤 Profile Pages
 
