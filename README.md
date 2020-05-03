@@ -67,6 +67,8 @@
 
 -Happy Ladybugs - [Problem](https://www.hackerrank.com/challenges/happy-ladybugs/problem) - [Solution Ruby](https://repl.it/@SafaErden/Happy-Ladybugs)
 
+-3D Surface Area - [Problem](https://www.hackerrank.com/challenges/3d-surface-area/problem) - [Solution Ruby](https://repl.it/@SafaErden/3D-Surface-Area)
+
 
 ## 👤 Profile Pages
 
