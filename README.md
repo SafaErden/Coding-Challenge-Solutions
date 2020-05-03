@@ -65,6 +65,8 @@
 
 -Manasa and Stones - [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem) - [Solution Ruby](https://repl.it/@SafaErden/Manasa-and-Stones)
 
+Happy Ladybugs - [Problem](https://www.hackerrank.com/challenges/happy-ladybugs/problem) - [Solution Ruby](https://repl.it/@SafaErden/Happy-Ladybugs)
+
 
 ## 👤 Profile Pages
 
