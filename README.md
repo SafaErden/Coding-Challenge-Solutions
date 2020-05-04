@@ -71,6 +71,8 @@
 
 -Birthday Cake Candles - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution JavaScript](https://repl.it/@SafaErden/Birthday-Cake-Candles)
 
+-Halloween Sale - [Problem](https://www.hackerrank.com/challenges/halloween-sale) - [Solution JavaScript](https://repl.it/@SafaErden/Halloween-Sale)
+
 
 ## 👤 Profile Pages
 
