@@ -75,15 +75,17 @@
 
 -Game of Thrones - I - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) - [Solution Ruby](https://repl.it/@SafaErden/Game-of-Thrones-I)
 
--Divisible Sum Pairs - [Problem](https://repl.it/@SafaErden/Divisible-Sum-Pairs) - [Solution Ruby](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+-Divisible Sum Pairs - [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) - [Solution Ruby](https://repl.it/@SafaErden/Divisible-Sum-Pairs)
 
--Bon Appétit - [Problem](https://repl.it/@SafaErden/Bon-Appetit) - [Solution Ruby](https://www.hackerrank.com/challenges/bon-appetit/problem)
+-Bon Appétit - [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem) - [Solution Ruby](https://repl.it/@SafaErden/Bon-Appetit)
 
--Find the Median - [Problem](https://repl.it/@SafaErden/Find-the-Median) - [Solution Ruby](https://www.hackerrank.com/challenges/find-the-median/problem)
+-Find the Median - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem) - [Solution Ruby](https://repl.it/@SafaErden/Find-the-Median)
 
--Insertion Sort - Part 1 - [Problem](https://repl.it/@SafaErden/Insertion-Sort-Part-1) - [Solution Ruby](https://www.hackerrank.com/challenges/insertionsort1/problem)
+-Insertion Sort - Part 1 - [Problem](https://www.hackerrank.com/challenges/insertionsort1/problem) - [Solution Ruby](https://repl.it/@SafaErden/Insertion-Sort-Part-1)
 
--Insertion Sort - Part 2 - [Problem](https://repl.it/@SafaErden/Insertion-Sort-Part-2) - [Solution Ruby](https://www.hackerrank.com/challenges/insertionsort2/problem)
+-Insertion Sort - Part 2 - [Problem](https://www.hackerrank.com/challenges/insertionsort2/problem) - [Solution Ruby](https://repl.it/@SafaErden/Insertion-Sort-Part-2)
+
+-Project Euler #2: Even Fibonacci numbers - [Problem](https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/euler002) - [Solution Ruby](https://repl.it/@SafaErden/Project-Euler-2-Even-Fibonacci-numbers)
 
 
 
