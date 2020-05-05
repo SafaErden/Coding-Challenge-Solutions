@@ -73,6 +73,8 @@
 
 -Halloween Sale - [Problem](https://www.hackerrank.com/challenges/halloween-sale) - [Solution JavaScript](https://repl.it/@SafaErden/Halloween-Sale)
 
+-Game of Thrones - I - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) - [Solution JavaScript](https://repl.it/@SafaErden/Game-of-Thrones-I)
+
 
 ## 👤 Profile Pages
 
