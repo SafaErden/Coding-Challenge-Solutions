@@ -71,11 +71,13 @@
 
 -Birthday Cake Candles - [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution JavaScript](https://repl.it/@SafaErden/Birthday-Cake-Candles)
 
--Halloween Sale - [Problem](https://www.hackerrank.com/challenges/halloween-sale) - [Solution JavaScript](https://repl.it/@SafaErden/Halloween-Sale)
+-Halloween Sale - [Problem](https://www.hackerrank.com/challenges/halloween-sale) - [Solution Ruby](https://repl.it/@SafaErden/Halloween-Sale)
 
--Game of Thrones - I - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) - [Solution JavaScript](https://repl.it/@SafaErden/Game-of-Thrones-I)
+-Game of Thrones - I - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) - [Solution Ruby](https://repl.it/@SafaErden/Game-of-Thrones-I)
 
--Divisible Sum Pairs - [Problem](https://repl.it/@SafaErden/Divisible-Sum-Pairs) - [Solution JavaScript](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+-Divisible Sum Pairs - [Problem](https://repl.it/@SafaErden/Divisible-Sum-Pairs) - [Solution Ruby](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+
+-Bon Appétit - [Problem](https://repl.it/@SafaErden/Bon-Appetit) - [Solution Ruby](https://www.hackerrank.com/challenges/bon-appetit/problem)
 
 
 
