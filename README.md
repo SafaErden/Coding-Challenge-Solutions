@@ -81,6 +81,8 @@
 
 -Find the Median - [Problem](https://repl.it/@SafaErden/Find-the-Median) - [Solution Ruby](https://www.hackerrank.com/challenges/find-the-median/problem)
 
+-Insertion Sort - Part 1 - [Problem](https://repl.it/@SafaErden/Insertion-Sort-Part-1) - [Solution Ruby](https://www.hackerrank.com/challenges/insertionsort1/problem)
+
 
 
 ## 👤 Profile Pages
