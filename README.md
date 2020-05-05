@@ -83,6 +83,8 @@
 
 -Insertion Sort - Part 1 - [Problem](https://repl.it/@SafaErden/Insertion-Sort-Part-1) - [Solution Ruby](https://www.hackerrank.com/challenges/insertionsort1/problem)
 
+-Insertion Sort - Part 2 - [Problem](https://repl.it/@SafaErden/Insertion-Sort-Part-2) - [Solution Ruby](https://www.hackerrank.com/challenges/insertionsort2/problem)
+
 
 
 ## 👤 Profile Pages
