@@ -79,6 +79,8 @@
 
 -Bon Appétit - [Problem](https://repl.it/@SafaErden/Bon-Appetit) - [Solution Ruby](https://www.hackerrank.com/challenges/bon-appetit/problem)
 
+-Find the Median - [Problem](https://repl.it/@SafaErden/Find-the-Median) - [Solution Ruby](https://www.hackerrank.com/challenges/find-the-median/problem)
+
 
 
 ## 👤 Profile Pages
