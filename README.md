@@ -75,6 +75,9 @@
 
 -Game of Thrones - I - [Problem](https://www.hackerrank.com/challenges/game-of-thrones/problem) - [Solution JavaScript](https://repl.it/@SafaErden/Game-of-Thrones-I)
 
+-Divisible Sum Pairs - [Problem](https://repl.it/@SafaErden/Divisible-Sum-Pairs) - [Solution JavaScript](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
+
+
 
 ## 👤 Profile Pages
 
