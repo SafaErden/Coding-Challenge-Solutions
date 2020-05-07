@@ -89,6 +89,8 @@
 
 -Running Time Algorithms - [Problem](https://www.hackerrank.com/challenges/runningtime/problem) - [Solution Ruby](https://repl.it/@SafaErden/Running-Time-Algorithms)
 
+-Correctness and the Loop Invariant - [Problem](https://www.hackerrank.com/challenges/correctness-invariant/problem) - [Solution Ruby](https://repl.it/@SafaErden/Correctness-and-the-Loop-Invariant)
+
 
 
 ## 👤 Profile Pages
