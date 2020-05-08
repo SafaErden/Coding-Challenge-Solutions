@@ -91,6 +91,8 @@
 
 -Correctness and the Loop Invariant - [Problem](https://www.hackerrank.com/challenges/correctness-invariant/problem) - [Solution Ruby](https://repl.it/@SafaErden/Correctness-and-the-Loop-Invariant)
 
+-Caesar Cipher - [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) - [Solution Ruby](https://repl.it/@SafaErden/Caesar-Cipher)
+
 
 
 ## 👤 Profile Pages
