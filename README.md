@@ -93,6 +93,8 @@
 
 -Caesar Cipher - [Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) - [Solution Ruby](https://repl.it/@SafaErden/Caesar-Cipher)
 
+-Counting Valleys - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problemm) - [Solution Ruby](https://repl.it/@SafaErden/Counting-Valleys)
+
 
 
 ## 👤 Profile Pages
