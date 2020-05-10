@@ -95,6 +95,8 @@
 
 -Counting Valleys - [Problem](https://www.hackerrank.com/challenges/counting-valleys/problemm) - [Solution Ruby](https://repl.it/@SafaErden/Counting-Valleys)
 
+-Cats and Mouse - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) - [Solution Ruby](https://repl.it/@SafaErden/Cats-and-a-Mouse)
+
 
 
 ## 👤 Profile Pages
