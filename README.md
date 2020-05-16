@@ -97,6 +97,8 @@
 
 -Cats and Mouse - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) - [Solution Ruby](https://repl.it/@SafaErden/Cats-and-a-Mouse)
 
+-ROT13 - [Problem](https://www.hackerrank.com/challenges/ruby-enumerable-collect/problem) - [Solution Ruby](https://repl.it/@SafaErden/Ruby-Enumerable-collect)
+
 
 
 ## 👤 Profile Pages
