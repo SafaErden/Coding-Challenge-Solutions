@@ -103,6 +103,8 @@
 
 -Linked Lists - [Problem & Solution](https://repl.it/@SafaErden/12-Linked-Lists)
 
+-Stacks - [Problem & Solution](https://repl.it/@SafaErden/13-Stack)
+
 
 
 ## 👤 Profile Pages
