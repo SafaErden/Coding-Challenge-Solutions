@@ -105,6 +105,8 @@
 
 -Stacks - [Problem & Solution](https://repl.it/@SafaErden/13-Stack)
 
+-Queues - [Problem & Solution](https://repl.it/@SafaErden/14-Queue)
+
 
 
 ## 👤 Profile Pages
