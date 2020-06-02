@@ -107,7 +107,7 @@
 
 -Queues - [Problem & Solution](https://repl.it/@SafaErden/14-Queue)
 
--Queues - [Problem & Solution](https://repl.it/@SafaErden/21-Min-Stack#main.rb)
+-Min Stack - [Problem & Solution](https://repl.it/@SafaErden/21-Min-Stack#main.rb)
 
 
 
