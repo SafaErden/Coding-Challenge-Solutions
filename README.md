@@ -99,6 +99,8 @@
 
 -ROT13 - [Problem](https://www.hackerrank.com/challenges/ruby-enumerable-collect/problem) - [Solution Ruby](https://repl.it/@SafaErden/Ruby-Enumerable-collect)
 
+-Arrays and Linked Lists - [Problem & Solution](https://repl.it/@SafaErden/11-Lists)
+
 
 
 ## 👤 Profile Pages
