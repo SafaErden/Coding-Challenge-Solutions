@@ -101,6 +101,8 @@
 
 -Arrays and Linked Lists - [Problem & Solution](https://repl.it/@SafaErden/11-Lists)
 
+-Linked Lists - [Problem & Solution](https://repl.it/@SafaErden/12-Linked-Lists)
+
 
 
 ## 👤 Profile Pages
