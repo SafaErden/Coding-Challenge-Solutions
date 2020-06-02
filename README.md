@@ -19,7 +19,7 @@
 
 -Palindrome Index - [Problem](https://www.hackerrank.com/challenges/palindrome-index/problem) - [Solution Ruby](https://repl.it/@SafaErden/Palindrome-Index) - [Video Solution](https://www.youtube.com/watch?v=PAVII7SEl0g)
 
--Anagram - [Problem](https://www.hackerrank.com/challenges/anagram/problem) - [Solution Ruby](https://repl.it/@SafaErden/Anagram)
+-Anagram - [Problem](https://www.hackerrank.com/challenges/anagram/problem) - [Solution Ruby](https://repl.it/@SafaErden/Anagram) - [Video Solution](https://www.youtube.com/watch?v=VRU1WOR5HQY)
 
 -Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution Ruby](https://repl.it/@SafaErden/Electronics-Shop)
 
