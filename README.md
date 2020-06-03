@@ -113,6 +113,8 @@
 
 -Balanced Brackets - [Problem & Solution](https://repl.it/@SafaErden/23-Balanced-Brackets)
 
+-Transposition - [Problem & Solution](https://repl.it/@SafaErden/24-Transposition)
+
 
 
 ## 👤 Profile Pages
