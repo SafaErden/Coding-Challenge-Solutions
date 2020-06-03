@@ -115,6 +115,8 @@
 
 -Transposition - [Problem & Solution](https://repl.it/@SafaErden/24-Transposition)
 
+-Basic Recursion - [Problem & Solution](https://repl.it/@SafaErden/31-Basic-Recursion)
+
 
 
 ## 👤 Profile Pages
