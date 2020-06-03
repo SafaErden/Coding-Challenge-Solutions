@@ -111,6 +111,8 @@
 
 -Sliding Maximum - [Problem & Solution](https://repl.it/@SafaErden/22-Sliding-Maximum)
 
+-Balanced Brackets - [Problem & Solution](https://repl.it/@SafaErden/23-Balanced-Brackets)
+
 
 
 ## 👤 Profile Pages
