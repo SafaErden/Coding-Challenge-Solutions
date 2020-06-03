@@ -117,6 +117,8 @@
 
 -Basic Recursion - [Problem & Solution](https://repl.it/@SafaErden/31-Basic-Recursion)
 
+-Binary Seach - [Problem & Solution](https://repl.it/@SafaErden/32-Binary-Seacrh)
+
 
 
 ## 👤 Profile Pages
