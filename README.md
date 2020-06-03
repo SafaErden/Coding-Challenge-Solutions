@@ -21,7 +21,7 @@
 
 -Anagram - [Problem](https://www.hackerrank.com/challenges/anagram/problem) - [Solution Ruby](https://repl.it/@SafaErden/Anagram) - [Video Solution](https://www.youtube.com/watch?v=VRU1WOR5HQY)
 
--Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution Ruby](https://repl.it/@SafaErden/Electronics-Shop)
+-Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution Ruby](https://repl.it/@SafaErden/Electronics-Shop) - [Video Solution](https://www.youtube.com/watch?v=nlbLuoKR36w)
 
 -Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution Ruby](https://repl.it/@SafaErden/Picking-Numbers)
 
