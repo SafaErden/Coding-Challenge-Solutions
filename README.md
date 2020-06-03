@@ -109,6 +109,8 @@
 
 -Min Stack - [Problem & Solution](https://repl.it/@SafaErden/21-Min-Stack#main.rb)
 
+-Sliding Maximum - [Problem & Solution](https://repl.it/@SafaErden/22-Sliding-Maximum)
+
 
 
 ## 👤 Profile Pages
