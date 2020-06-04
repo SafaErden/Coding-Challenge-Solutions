@@ -121,6 +121,8 @@
 
 -Towers of Hanoi - PART 1 - [Problem & Solution](https://repl.it/@SafaErden/33-Towers-of-Hanoi-PART-1)
 
+-Towers of Hanoi - PART 2 - [Problem & Solution](https://repl.it/@SafaErden/34-Towers-of-Hanoi-PART-2)
+
 
 
 ## 👤 Profile Pages
