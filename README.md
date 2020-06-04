@@ -123,6 +123,8 @@
 
 -Towers of Hanoi - PART 2 - [Problem & Solution](https://repl.it/@SafaErden/34-Towers-of-Hanoi-PART-2)
 
+-Backtracking Recursion - [Problem & Solution](https://repl.it/@SafaErden/35-Backtracking-Recursion)
+
 
 
 ## 👤 Profile Pages
