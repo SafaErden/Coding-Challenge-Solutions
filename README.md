@@ -119,7 +119,7 @@
 
 -Binary Seach - [Problem & Solution](https://repl.it/@SafaErden/32-Binary-Seacrh)
 
--Towers of Hanoi - PART 1 - [Problem & Solution](https://repl.it/@SafaErden/32-Binary-Seacrh)
+-Towers of Hanoi - PART 1 - [Problem & Solution](https://repl.it/@SafaErden/33-Towers-of-Hanoi-PART-1)
 
 
 
