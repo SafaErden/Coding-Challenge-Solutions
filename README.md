@@ -97,6 +97,8 @@
 
 -Cats and Mouse - [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) - [Solution Ruby](https://repl.it/@SafaErden/Cats-and-a-Mouse) - [Video Solution](https://www.youtube.com/watch?v=bJob0Yx6DB8)
 
+-Candies - [Problem](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming) - [Solution Ruby](https://repl.it/@SafaErden/Candies)
+
 -ROT13 - [Problem](https://www.hackerrank.com/challenges/ruby-enumerable-collect/problem) - [Solution Ruby](https://repl.it/@SafaErden/Ruby-Enumerable-collect)
 
 -Arrays and Linked Lists - [Problem & Solution](https://repl.it/@SafaErden/11-Lists)
