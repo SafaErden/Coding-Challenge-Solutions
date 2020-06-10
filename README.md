@@ -33,7 +33,7 @@
 
 -Library Fine - [Problem](https://www.hackerrank.com/challenges/library-fine/problem) - [Solution Ruby](https://repl.it/@SafaErden/Library-Fine)
 
--Equalize the Array - [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) - [Solution Ruby](https://repl.it/@SafaErden/Equalize-the-Array)
+-Equalize the Array - [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) - [Solution Ruby](https://repl.it/@SafaErden/Equalize-the-Array) - [Video Solution](https://www.youtube.com/watch?v=pa7vgn35JEY)
 
 -Encryption - [Problem](https://www.hackerrank.com/challenges/encryption/problem) - [Solution Ruby](https://repl.it/@SafaErden/Encryption)
 
