@@ -23,7 +23,7 @@
 
 -Electronics Shop - [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) - [Solution Ruby](https://repl.it/@SafaErden/Electronics-Shop) - [Video Solution](https://www.youtube.com/watch?v=nlbLuoKR36w)
 
--Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution Ruby](https://repl.it/@SafaErden/Picking-Numbers)
+-Picking Numbers - [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem) - [Solution Ruby](https://repl.it/@SafaErden/Picking-Numbers) - [Video Solution](https://www.youtube.com/watch?v=nXVnjTSpYgA)
 
 -The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile) - [Solution Ruby](https://repl.it/@SafaErden/The-Hurdle-Race) - [Video Solution](https://www.youtube.com/watch?v=BwPrcveZ6o4)
 
