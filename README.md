@@ -31,7 +31,7 @@
 
 -Find Digits - [Problem](https://www.hackerrank.com/challenges/find-digits/problem) - [Solution Ruby](https://repl.it/@SafaErden/Find-Digits) - [Video Solution](https://www.youtube.com/watch?v=2V05rtCyZAM)
 
--Library Fine - [Problem](https://www.hackerrank.com/challenges/library-fine/problem) - [Solution Ruby](https://repl.it/@SafaErden/Library-Fine)
+-Library Fine - [Problem](https://www.hackerrank.com/challenges/library-fine/problem) - [Solution Ruby](https://repl.it/@SafaErden/Library-Fine) - [Video Solution](https://youtu.be/VjssD2Woa4c)
 
 -Equalize the Array - [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem) - [Solution Ruby](https://repl.it/@SafaErden/Equalize-the-Array) - [Video Solution](https://www.youtube.com/watch?v=pa7vgn35JEY)
 
