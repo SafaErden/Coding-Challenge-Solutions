@@ -127,6 +127,8 @@
 
 -Backtracking Recursion - [Problem & Solution](https://repl.it/@SafaErden/35-Backtracking-Recursion)
 
+-Binary Tree - [Problem & Solution](https://repl.it/@SafaErden/41-Binary-Trees)
+
 
 
 ## 👤 Profile Pages
