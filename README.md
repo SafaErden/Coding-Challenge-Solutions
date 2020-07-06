@@ -129,6 +129,7 @@
 
 -Binary Tree - [Problem & Solution](https://repl.it/@SafaErden/41-Binary-Trees)
 
+-Binary Tree Traversal - [Problem & Solution](https://repl.it/@SafaErden/42-Binary-Tree-Traversal)
 
 
 ## 👤 Profile Pages
