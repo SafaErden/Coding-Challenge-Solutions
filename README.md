@@ -131,6 +131,8 @@
 
 -Binary Tree Traversal - [Problem & Solution](https://repl.it/@SafaErden/42-Binary-Tree-Traversal)
 
+-How Tall is a Tree - [Problem & Solution](https://repl.it/@SafaErden/43-How-Tall-is-a-Tree)
+
 
 ## 👤 Profile Pages
 
