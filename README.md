@@ -27,6 +27,8 @@
 
 -The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile) - [Solution Ruby](https://repl.it/@SafaErden/The-Hurdle-Race) - [Video Solution](https://www.youtube.com/watch?v=BwPrcveZ6o4)
 
+-The Hurdle Race - [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem?h_r=profile) - [Solution JavaScript](https://repl.it/@SafaErden/Hurdle-Race#index.js)
+
 -Angry Professor - [Problem](https://www.hackerrank.com/challenges/angry-professor/problem) - [Solution Ruby](https://repl.it/@SafaErden/Angry-Professor) - [Video Solution](https://youtu.be/UjwEbIUeGJE)
 
 -Find Digits - [Problem](https://www.hackerrank.com/challenges/find-digits/problem) - [Solution Ruby](https://repl.it/@SafaErden/Find-Digits) - [Video Solution](https://www.youtube.com/watch?v=2V05rtCyZAM)
