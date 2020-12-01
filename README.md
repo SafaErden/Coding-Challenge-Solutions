@@ -169,7 +169,7 @@
 
 -Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/79-Quick-Sort)
 
--Siimple Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/710-Simple-Quick-Sort)
+-Simple Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/710-Simple-Quick-Sort)
 
 -Advanced Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/711-Advanced-Quick-Sort)
 
