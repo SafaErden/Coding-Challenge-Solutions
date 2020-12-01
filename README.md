@@ -135,6 +135,54 @@
 
 -How Tall is a Tree - [Problem & Solution](https://repl.it/@SafaErden/43-How-Tall-is-a-Tree)
 
+-Stacks or Recursion - [Problem & Solution](https://repl.it/@SafaErden/52-Stacks-or-Recursion)
+
+-Binary Search Tree - [Problem & Solution](https://repl.it/@SafaErden/43-Binary-Search-Tree)
+
+-Is it a Search Tree - [Problem & Solution](https://repl.it/@SafaErden/53-Is-It-a-Search-Tree)
+
+-Is it balanced - [Problem & Solution](https://repl.it/@SafaErden/54-Is-Balanced)
+
+-Graphs - [Problem & Solution](https://repl.it/@SafaErden/44-Graphs)
+
+-Breadth First Search - [Problem & Solution](https://repl.it/@SafaErden/45-Breadth-First-Search)
+
+-Depth First Search - [Problem & Solution](https://repl.it/@SafaErden/46-Depth-First-Search)
+
+-Connected Components - [Problem & Solution](https://repl.it/@SafaErden/55-Connected-Components)
+
+-Find The Cycles - [Problem & Solution](https://repl.it/@SafaErden/56-Find-The-Cycles)
+
+-Sets - [Problem & Solution](https://repl.it/@SafaErden/61-Sets)
+
+-Maps - [Problem & Solution](https://repl.it/@SafaErden/62-Maps)
+
+-Hash Tables - [Problem & Solution](https://repl.it/@SafaErden/63-Hash-Tables)
+
+-Practice - [Problem & Solution](https://repl.it/@SafaErden/66-More-Practice)
+
+-Insertion Sort 1 - [Problem & Solution](https://repl.it/@SafaErden/72-Insertion-sort-1)
+
+-Insertion Sort 2 - [Problem & Solution](https://repl.it/@SafaErden/73-Insertion-Sort-2)
+
+-Running Time - [Problem & Solution](https://repl.it/@SafaErden/74-Running-Time)
+
+-Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/79-Quick-Sort)
+
+-Siimple Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/710-Simple-Quick-Sort)
+
+-Advanced Quick Sort - [Problem & Solution](https://repl.it/@SafaErden/711-Advanced-Quick-Sort)
+
+-Quick Sort Running Time - [Problem & Solution](https://repl.it/@SafaErden/712-Quick-Sort-Running-Time)
+
+-Merge Sort - [Problem & Solution](https://repl.it/@SafaErden/81-Merge-Sort)
+
+-Full Merge Sort - [Problem & Solution](https://repl.it/@SafaErden/82-Full-Merge-Sort)
+
+-Time Scheduler - [Problem & Solution](https://repl.it/@SafaErden/84-Time-Scheduler)
+
+-Find The Duplicates - [Problem & Solution](https://repl.it/@SafaErden/88-Find-The-Duplicates)
+
 
 ## 👤 Profile Pages
 
